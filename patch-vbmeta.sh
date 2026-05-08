@@ -5,4 +5,4 @@ if [ -f vbmeta.img.lz4 ]; then
 fi
 
 ./vbmeta-disable-verification vbmeta.img
-rm -rf vbmeta.img.lz4
+rm -rf vbmeta.img
